@@ -20,7 +20,7 @@
           "*"
       ],
       "settings": {
-          "doNotPublishApps": true,
+          "doNotPublishApps": false,
           "doNotSignApps": true
       }
     }

@@ -3,4 +3,10 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "templateSha": "359d32d051a800d7e28c3a0f97a724b16aed403b"
+  "DeployToSandboxAUv26": {
+    "DependencyInstallMode": "install"
+  },
+  "DeployToSandboxAUv27": {
+    "DependencyInstallMode": "install"
+  }
 }

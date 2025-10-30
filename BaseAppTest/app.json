@@ -1,0 +1,39 @@
+{
+  "id": "ba043de7-94b6-4630-ae25-03b922e529cf",
+  "name": "BaseAppTest",
+  "publisher": "Default Publisher",
+  "version": "1.1.1.1",
+  "brief": "Testing Dependency handling in GitHub AL-Go",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "74ed0e9f-0dfc-40e2-a489-4b92f1cbaedb",
+      "name": "BaseAppTestDependentApp",
+      "publisher": "Default Publisher",
+      "version": "2.2.2.2"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

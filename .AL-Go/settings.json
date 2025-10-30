@@ -13,5 +13,16 @@
     {
       "repo": "https://github.com/Professional-Advantage-SDG/BaseAppTestDependentApp"
     }
+  ],
+  "ConditionalSettings": [
+    {
+      "branches": [
+          "*"
+      ],
+      "settings": {
+          "doNotPublishApps": true,
+          "doNotSignApps": true
+      }
+    }
   ]
 }

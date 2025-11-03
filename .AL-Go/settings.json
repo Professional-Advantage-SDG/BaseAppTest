@@ -8,7 +8,7 @@
   "trackALAlertsInGitHub": true,
   "testFolders": [],
   "bcptTestFolders": [],
-  "repoVersion": "1.1.1.1",
+  "repoVersion": "1.1.2.0",
   "appDependencyProbingPaths": [
     {
       "repo": "https://github.com/Professional-Advantage-SDG/BaseAppTestDependentApp"
@@ -17,12 +17,12 @@
   "ConditionalSettings": [
     {
       "branches": [
-          "*"
+        "*"
       ],
       "settings": {
-          "doNotPublishApps": false,
-          "doNotSignApps": true,
-          "usecompilerfolder": false
+        "doNotPublishApps": false,
+        "doNotSignApps": true,
+        "usecompilerfolder": false
       }
     }
   ]
